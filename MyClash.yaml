@@ -50,7 +50,7 @@ proxies:
   - {"name":"03_22_CN_43","server":"183.232.56.161","port":5018,"type":"vmess","uuid":"3a226645-c640-39a2-8177-000381e29f20","alterId":0,"cipher":"auto","tls":false,"network":"ws","ws-opts":{"path":"/v2ray","headers":{"host":"microsoft.com"}}}
   - {"name":"03_22_US_44","server":"a2.centaur.network","port":8081,"type":"trojan","password":"cdcf03f6-5326-4496-a1d1-03bb098ad56f"}
   - {"name":"03_22_US_45","server":"2.ezydfdd.com","port":443,"type":"vmess","uuid":"8ce46aae-dae5-4d50-ebcd-f9514e4c048a","alterId":0,"cipher":"auto","tls":true,"network":"ws","ws-opts":{"path":"/qwe","headers":{"host":"2.ezydfdd.com"}}}
-  - {"name":"03_22_US_46","server":"cloudflare.a-yu.xyz","port":443,"type":"vmess","uuid":"a8910831-f56b-4ac4-c68f-e4dd83f71e60","alterId":0,"cipher":"auto","tls":true,"network":"ws","ws-opts":{"path":"/sakura/","headers":{"host":"zero2.a-yu.xyz"}}}
+  - {"name":"03_22_46","server":"cloudflare.a-yu.xyz","port":443,"type":"vmess","uuid":"a8910831-f56b-4ac4-c68f-e4dd83f71e60","alterId":0,"cipher":"auto","tls":true,"network":"ws","ws-opts":{"path":"/sakura/","headers":{"host":"zero2.a-yu.xyz"}}}
   - {"name":"03_22_47","server":"104.18.85.215","port":2053,"type":"vmess","uuid":"bf67437e-6c90-45ca-abc2-c7240a5ce2aa","alterId":0,"cipher":"auto","tls":true,"network":"ws","ws-opts":{"path":"/eisasqa","headers":{"host":"foxsg.fovi.tk"}}}
   - {"name":"03_22_IN_48","server":"45.79.121.117","port":7002,"type":"ss","cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG"}
   - {"name":"03_22_US_49","server":"35.153.162.49","port":27080,"type":"vmess","uuid":"6334db00-f39b-49d7-d12a-2e3c037c5d97","alterId":0,"cipher":"auto","tls":false,"network":"http","ws-opts":{"path":"/","headers":{"host":"35.153.162.49"}}}
@@ -60,7 +60,7 @@ proxies:
   - {"name":"03_22_US_53","server":"173.255.215.146","port":11443,"type":"vmess","uuid":"d5c70a71-1b3c-41f2-a8e0-17323bc23821","alterId":0,"cipher":"auto","tls":true,"network":"ws","ws-opts":{"path":"/api/common","headers":{"host":"usav2.ddns.tjiasu.xyz"}}}
   - {"name":"03_22_US_54","server":"us4.bpyun.live","port":443,"type":"vmess","uuid":"22b3eafd-3ac7-3138-97ef-a2c7ce3cb5b7","alterId":0,"cipher":"auto","tls":true,"network":"ws","ws-opts":{"path":"/cocksucker","headers":{"host":"us4.bpyun.live"}}}
   - {"name":"03_22_GB_55","server":"172.99.190.92","port":7002,"type":"ss","cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG"}
-  - {"name":"03_22_US_56","server":"cloudflare.xrenblog.com","port":443,"type":"vmess","uuid":"6c175d1a-a57f-4881-a471-173eb139694b","alterId":0,"cipher":"auto","tls":true,"network":"ws","ws-opts":{"path":"/xrenblog/","headers":{"host":"ipv6.xrenblog.com"}}}
+  - {"name":"03_22_56","server":"cloudflare.xrenblog.com","port":443,"type":"vmess","uuid":"6c175d1a-a57f-4881-a471-173eb139694b","alterId":0,"cipher":"auto","tls":true,"network":"ws","ws-opts":{"path":"/xrenblog/","headers":{"host":"ipv6.xrenblog.com"}}}
   - {"name":"03_22_57","server":"198.41.212.234","port":443,"type":"vmess","uuid":"a8910831-f56b-4ac4-c68f-e4dd83f71e60","alterId":0,"cipher":"auto","tls":true,"network":"ws","ws-opts":{"path":"/sakura/","headers":{"host":"2022-world-1.a-yu.xyz"}}}
   - {"name":"03_22_CN_58","server":"183.232.56.161","port":1212,"type":"vmess","uuid":"3a226645-c640-39a2-8177-000381e29f20","alterId":0,"cipher":"auto","tls":false,"network":"ws","ws-opts":{"path":"/v2ray","headers":{"host":"microsoft.com"}}}
   - {"name":"03_22_US_59","server":"169.197.142.99","port":6679,"type":"ss","cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS"}
@@ -81,6 +81,12 @@ proxies:
   - {"name":"03_22_74","server":"198.41.212.9","port":443,"type":"vmess","uuid":"a8910831-f56b-4ac4-c68f-e4dd83f71e60","alterId":0,"cipher":"auto","tls":true,"network":"ws","ws-opts":{"path":"/sakura/","headers":{"host":"zero1.a-yu.xyz"}}}
   - {"name":"03_22_CN_75","server":"117.28.243.173","port":4173,"type":"ss","cipher":"rc4-md5","password":"passinfo123"}
   - {"name":"03_22_76","server":"198.41.212.8","port":443,"type":"vmess","uuid":"a8910831-f56b-4ac4-c68f-e4dd83f71e60","alterId":0,"cipher":"auto","tls":true,"network":"ws","ws-opts":{"path":"/sakura/","headers":{"host":"zero1.a-yu.xyz"}}}
+  - {"name":"03_22_JP_77","server":"172.105.230.112","port":5001,"type":"ss","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"name":"03_22_JP_78","server":"172.105.230.112","port":6679,"type":"ss","cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS"}
+  - {"name":"03_22_JP_79","server":"172.105.230.112","port":7002,"type":"ss","cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG"}
+  - {"name":"03_22_JP_80","server":"172.105.230.112","port":8080,"type":"ss","cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"name":"03_22_JP_81","server":"172.105.230.112","port":8882,"type":"ss","cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4"}
+  - {"name":"03_22_JP_82","server":"172.105.230.112","port":8008,"type":"ss","cipher":"aes-256-gcm","password":"XKFKl2rULjIp74"}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -132,7 +138,7 @@ proxy-groups:
       - 03_22_CN_43
       - 03_22_US_44
       - 03_22_US_45
-      - 03_22_US_46
+      - 32246
       - 32247
       - 03_22_IN_48
       - 03_22_US_49
@@ -142,7 +148,7 @@ proxy-groups:
       - 03_22_US_53
       - 03_22_US_54
       - 03_22_GB_55
-      - 03_22_US_56
+      - 32256
       - 32257
       - 03_22_CN_58
       - 03_22_US_59
@@ -163,6 +169,12 @@ proxy-groups:
       - 32274
       - 03_22_CN_75
       - 32276
+      - 03_22_JP_77
+      - 03_22_JP_78
+      - 03_22_JP_79
+      - 03_22_JP_80
+      - 03_22_JP_81
+      - 03_22_JP_82
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -214,7 +226,7 @@ proxy-groups:
       - 03_22_CN_43
       - 03_22_US_44
       - 03_22_US_45
-      - 03_22_US_46
+      - 32246
       - 32247
       - 03_22_IN_48
       - 03_22_US_49
@@ -224,7 +236,7 @@ proxy-groups:
       - 03_22_US_53
       - 03_22_US_54
       - 03_22_GB_55
-      - 03_22_US_56
+      - 32256
       - 32257
       - 03_22_CN_58
       - 03_22_US_59
@@ -245,6 +257,12 @@ proxy-groups:
       - 32274
       - 03_22_CN_75
       - 32276
+      - 03_22_JP_77
+      - 03_22_JP_78
+      - 03_22_JP_79
+      - 03_22_JP_80
+      - 03_22_JP_81
+      - 03_22_JP_82
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -296,7 +314,7 @@ proxy-groups:
       - 03_22_CN_43
       - 03_22_US_44
       - 03_22_US_45
-      - 03_22_US_46
+      - 32246
       - 32247
       - 03_22_IN_48
       - 03_22_US_49
@@ -306,7 +324,7 @@ proxy-groups:
       - 03_22_US_53
       - 03_22_US_54
       - 03_22_GB_55
-      - 03_22_US_56
+      - 32256
       - 32257
       - 03_22_CN_58
       - 03_22_US_59
@@ -327,6 +345,12 @@ proxy-groups:
       - 32274
       - 03_22_CN_75
       - 32276
+      - 03_22_JP_77
+      - 03_22_JP_78
+      - 03_22_JP_79
+      - 03_22_JP_80
+      - 03_22_JP_81
+      - 03_22_JP_82
   - name: 📲 电报信息
     type: select
     proxies:
@@ -377,7 +401,7 @@ proxy-groups:
       - 03_22_CN_43
       - 03_22_US_44
       - 03_22_US_45
-      - 03_22_US_46
+      - 32246
       - 32247
       - 03_22_IN_48
       - 03_22_US_49
@@ -387,7 +411,7 @@ proxy-groups:
       - 03_22_US_53
       - 03_22_US_54
       - 03_22_GB_55
-      - 03_22_US_56
+      - 32256
       - 32257
       - 03_22_CN_58
       - 03_22_US_59
@@ -408,6 +432,12 @@ proxy-groups:
       - 32274
       - 03_22_CN_75
       - 32276
+      - 03_22_JP_77
+      - 03_22_JP_78
+      - 03_22_JP_79
+      - 03_22_JP_80
+      - 03_22_JP_81
+      - 03_22_JP_82
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -458,7 +488,7 @@ proxy-groups:
       - 03_22_CN_43
       - 03_22_US_44
       - 03_22_US_45
-      - 03_22_US_46
+      - 32246
       - 32247
       - 03_22_IN_48
       - 03_22_US_49
@@ -468,7 +498,7 @@ proxy-groups:
       - 03_22_US_53
       - 03_22_US_54
       - 03_22_GB_55
-      - 03_22_US_56
+      - 32256
       - 32257
       - 03_22_CN_58
       - 03_22_US_59
@@ -489,6 +519,12 @@ proxy-groups:
       - 32274
       - 03_22_CN_75
       - 32276
+      - 03_22_JP_77
+      - 03_22_JP_78
+      - 03_22_JP_79
+      - 03_22_JP_80
+      - 03_22_JP_81
+      - 03_22_JP_82
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -539,7 +575,7 @@ proxy-groups:
       - 03_22_CN_43
       - 03_22_US_44
       - 03_22_US_45
-      - 03_22_US_46
+      - 32246
       - 32247
       - 03_22_IN_48
       - 03_22_US_49
@@ -549,7 +585,7 @@ proxy-groups:
       - 03_22_US_53
       - 03_22_US_54
       - 03_22_GB_55
-      - 03_22_US_56
+      - 32256
       - 32257
       - 03_22_CN_58
       - 03_22_US_59
@@ -570,6 +606,12 @@ proxy-groups:
       - 32274
       - 03_22_CN_75
       - 32276
+      - 03_22_JP_77
+      - 03_22_JP_78
+      - 03_22_JP_79
+      - 03_22_JP_80
+      - 03_22_JP_81
+      - 03_22_JP_82
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -637,7 +679,7 @@ proxy-groups:
       - 03_22_CN_43
       - 03_22_US_44
       - 03_22_US_45
-      - 03_22_US_46
+      - 32246
       - 32247
       - 03_22_IN_48
       - 03_22_US_49
@@ -647,7 +689,7 @@ proxy-groups:
       - 03_22_US_53
       - 03_22_US_54
       - 03_22_GB_55
-      - 03_22_US_56
+      - 32256
       - 32257
       - 03_22_CN_58
       - 03_22_US_59
@@ -668,6 +710,12 @@ proxy-groups:
       - 32274
       - 03_22_CN_75
       - 32276
+      - 03_22_JP_77
+      - 03_22_JP_78
+      - 03_22_JP_79
+      - 03_22_JP_80
+      - 03_22_JP_81
+      - 03_22_JP_82
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
